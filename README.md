@@ -9,3 +9,5 @@ C++ 코드를 작성해서 구현했습니다.
 사용된 버전은 4.19입니다.
 
 영상 링크: https://www.youtube.com/playlist?list=PLlou-ZWlCeEffCzGC1JUTlPM5vny5iUgQ
+
+기술서 링크: https://drive.google.com/drive/folders/1-3Ir3Er8JjpjnC9ORaswpgmPx13BxL1n
